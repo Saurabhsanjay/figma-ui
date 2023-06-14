@@ -1,0 +1,24 @@
+
+.heading{
+    margin-top: 150px;
+}
+
+.heading h2{
+    text-align: center;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 159%;
+/* or 38px */
+
+
+color: #000000;
+}
+
+.images{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+}

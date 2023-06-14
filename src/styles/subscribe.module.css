@@ -1,0 +1,73 @@
+
+
+
+.main{
+
+height: 534px;
+left: 0px;
+top: 4324px;
+
+background: #E8F4FA;
+}
+
+
+.title h3{
+    padding-top: 143px;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 30px;
+line-height: 170%;
+/* or 51px */
+
+text-align: center;
+
+color: #252525;
+}
+
+.email_container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+    margin-top: 80px;
+}
+
+.email_container input {
+    width: 532px;
+height: 67px;
+left: 360px;
+top: 4643px;
+
+background: #FFFFFF;
+box-shadow: 0px 4px 84px rgba(0, 0, 0, 0.07);
+border-radius: 10px;
+border: none;
+}
+
+input::placeholder{
+    width: 130px;
+height: 27px;
+padding-left: 20px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 170%;
+/* or 27px */
+
+text-align: center;
+
+color: #787878;
+}
+
+.email_container button{
+    width: 173px;
+height: 67px;
+border: none;
+color: white;
+
+background: #000000;
+border-radius: 10px;
+}

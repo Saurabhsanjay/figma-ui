@@ -1,0 +1,99 @@
+
+.main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+    margin-top: 50px;
+}
+.child,child2 {
+    width: 500px;
+height: 459px;
+left: 123px;
+top: 3360px;
+
+background: #F4F4F4;
+border-radius: 20px;
+}
+.child2 {
+    width: 500px;
+height: 459px;
+left: 123px;
+top: 3360px;
+
+background: #1090CB;
+border-radius: 20px;
+}
+
+.title{
+ 
+margin-top: 60px;
+
+}
+.title h3{
+    font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 25px;
+line-height: 170%;
+
+
+
+text-align: center;
+
+color: #252525
+}
+
+.description{
+width: 476px;
+height: 141px;
+margin-top: 36px;
+text-align: center;
+
+}
+.description p{
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 170%;
+text-align: center;
+
+
+text-align: center;
+
+color: #545454;
+}
+
+.button{
+    text-align: center;
+    margin-top: 36px;
+}
+.button button{
+    width: 153px;
+height: 49px;
+
+
+background: #1090CB;
+border-radius: 10px;
+border: none;
+color: white;
+}
+
+.child2 .button button{
+    width: 153px;
+height: 49px;
+
+background: #FFFFFF;
+border-radius: 10px;
+
+border: none;
+color: #1090CB;
+}
+
+.child2 .title h3{
+    color: #FFFFFF;
+}
+.child2 .description p{
+    color: #FFFFFF;
+}
